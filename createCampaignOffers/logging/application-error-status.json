@@ -1,0 +1,32 @@
+{
+  "errorCodes": {
+    "ENOTFOUND": {
+      "code": "ENOTFOUND",
+      "statusCode": 400,
+      "message": "bad request"
+    },
+    "ETIMEDOUT": {
+      "code": "ETIMEDOUT",
+      "statusCode": 408,
+      "message": "request timed out"
+    },
+    "ER_ACCESS_DENIED_ERROR": {
+      "code": "ER_ACCESS_DENIED_ERROR",
+      "statusCode": 401,
+      "message": "access denied"
+    },
+    "ER_AUTHONTICATION_ERR": {
+      "statusCode": 401,
+      "message": "authentication failed"
+    },
+    "ER_BAD_DB_ERROR": {
+      "code": "ER_BAD_DB_ERROR",
+      "statusCode": 404,
+      "message": "unknown database"
+    },
+    "DEFAULT": {
+      "statusCode": 500,
+      "message": "internal Server Error"
+    }
+  }
+}

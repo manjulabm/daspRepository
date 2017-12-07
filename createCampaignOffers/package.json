@@ -1,0 +1,21 @@
+{
+  "name": "video_conference",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "json-templater": "^1.0.4",
+    "lodash": "^4.16.4",
+    "object-assign": "^4.1.0",
+    "promise-mysql": "^3.0.0",
+    "request": "^2.79.0",
+    "validator": "^6.1.0",
+    "https": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": ""
+  },
+  "author": "",
+  "license": "ISC"
+}

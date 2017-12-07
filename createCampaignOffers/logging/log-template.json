@@ -1,0 +1,19 @@
+{
+  "logging": [
+    {
+      "sequence" : "{{sequence}}",
+      "domain": "please add the domain name here",
+      "client": "please add the client name here",
+      "environment": "dev",
+      "executingMachineName": "please add the executing machine name here",
+      "project": "Video Conference",
+      "application": "please add the application name here",
+      "logType": "{{logType}}",
+      "messageType": "{{messageType}}",
+      "messageBody": "{{messageBody}}",
+      "dateTime": "{{dateTime}}",
+      "stage": "{{stage}}"
+    }
+  ]
+}
+
